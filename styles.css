@@ -16,19 +16,20 @@
 	background-color:green;
 	border-radius:50%;
 }
-.red{
-    margin: 0px 10px;
-	display:inline-block;
-	width:100px;
-	height:100px;
-	background-color:red;
-	border-radius:50%;
-}
+
 .yellow{
 	margin: 0px 10px;
 	display:inline-block;
 	width:100px;
 	height:100px;
 	background-color:yellow;
+	border-radius:50%;
+}
+.red{
+    margin: 0px 10px;
+	display:inline-block;
+	width:100px;
+	height:100px;
+	background-color:red;
 	border-radius:50%;
 }
